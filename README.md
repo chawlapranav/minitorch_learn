@@ -10,3 +10,4 @@ To access the autograder:
 * Module 3: https://classroom.github.com/a/U5CMJec1
 * Module 4: https://classroom.github.com/a/04QA6HZK
 * Quizzes: https://classroom.github.com/a/bGcGc12k
+* vedio: https://www.youtube.com/playlist?list=PLO45-80-XKkQyROXXpn4PfjF1J2tH46w8
